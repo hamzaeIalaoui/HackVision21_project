@@ -1,7 +1,7 @@
 Requirements:
 
-We created a desktop app, so python is to be present in the system it is supposed to run
-Import pandas and numpy packages in python.
-Import train_test_split from sklearn.model_selection 
-Import RandomForestClassifier from sklearn.ensemble
+Download & Install Python
+Download & Install pandas and numpy packages in python.
+Download & Install sklearn.model_selection 
+Download & Install PyQt5
 
